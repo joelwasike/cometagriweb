@@ -1,25 +1,4 @@
-/* Description: Master CSS file */
 
-/*****************************************
-Table Of Contents:
-- General Styles
-- Navigation
-- Home
-- Information
-- Button
-- Services
-- Plans
-- Testimonials
-- Newsletter
-- Back To Top Button
-- Extra Pages
-- Media Queries
-******************************************/
-
-
-/**************************/
-/*     General Styles     */
-/**************************/
 :root {
 	--primary: #1c262f;
 	--primary-light: #212d37;
